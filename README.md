@@ -7,4 +7,8 @@ Enable your "less secure app access" functionality from your email account which
 
 note: do not worry, enabling this functionality won't trouble you as it allows other mediums as python SMTP protocol to send mail, nothing else :)
 
-
+## update : 
+  As per google's new policy update you need to create app password to allow the third party application to use google's mail service. Below given are some link to know   how to do it : 
+  https://www.youtube.com/watch?v=pAPWBHxnFHM
+  
+  happy learning :)
